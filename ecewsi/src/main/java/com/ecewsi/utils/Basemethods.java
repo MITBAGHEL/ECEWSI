@@ -48,9 +48,9 @@ public class Basemethods {
 
 		final String key = "document/" + key1 + "/" + f.getName();
 
-		final String ACCESSKEY = "AKIAYUVRYVGNBHZMJ2UR";
-		final String SECRETKEY = "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";
-		final String bucketname = "baghelsm";
+		final String ACCESSKEY = "ABC";
+		final String SECRETKEY = "MKKK";
+		final String bucketname = "bag";
 
 		try {
 			System.out.println("-------file uploading from basemethod------");
